@@ -1,5 +1,9 @@
 # JavaScript-forLoops_cw_short
 
+Good work! 1/3 correct with partial credit on question 2.
+See index.js for comments.
+Score : 3 points 
+
 ### Exercise 1:
 Use a for loop to print numbers -3 through 8.
 

@@ -1,25 +1,29 @@
 //Excercise 1
 //Use a for loop to print numbers -3 through 8.
 
-//for(var i = -3; i<=8; i=i+1){
+for(var i = -3; i<=8; i=i+1){
 
-//    console.log(i);
-//}
+   console.log(i);
+}
 
 //Exercise 2:
 //Use a for loop to print from 0 to 50. Once it gets to 10,
 // print "TEN!!!" instead of the number.
 
-// for(var i = 0; i<=50; i=i+1) {
-//     console.log(i);
-//     if (i === 10)
-//     {
-//
-//         console.log("TEN!");
-//
-//     }
-//
-// }
+// PARTAIL CREDIT : you are still printing the number 10 instead of printing "TEN" in its place
+// You need an else statment following your if statment to print your iterator. 
+
+for(var i = 0; i<=50; i=i+1) {
+    console.log(i);
+    if (i === 10)
+    {
+
+        console.log("TEN!");
+
+    }
+
+}
+
 
 
 //Exercise 3
